@@ -89,12 +89,6 @@ img.card-img-top {
   padding-bottom: 0rem;
   box-shadow: 12px 12px 20px #caced1, -12px -12px 20px white;
 }
-h5.italic {
-  font-style: italic;
-}
-.italic {
-  font-style: italic;
-}
 h1.display-12.text-center {
   padding: 4rem 0;
   background-image: url(../../assets/images/ornam/Asset7a.png);
